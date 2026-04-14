@@ -50,7 +50,7 @@ The analysis applies Justice and Fairness Ethics (Rawls, 1971) alongside the AIA
 
 ## Files
 - `NATSIHS_Final.xlsx` — Cleaned and transformed dataset (4 sheets)
-- `Assignment_1.twbx` — Tableau packaged workbook with all worksheets and dashboard
+- `indigenous-health-equity-dashboard.twbx` — Tableau packaged workbook with all worksheets and dashboard
 - `screenshots/` — Individual visualisation screenshots
 
 ## Tools
